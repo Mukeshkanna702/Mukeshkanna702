@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mukeshkanna702
+- 👋 Hi, I’m @Mukesh kanna
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning BE / CSE
 - 💞️ I’m looking to collaborate on ...
