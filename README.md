@@ -28,21 +28,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukeshkanna702&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukeshkanna702&theme=radical" width="48%"/>
-</p>
-
----
-
-## 🧠 Top Skills
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukeshkanna702&layout=compact&theme=radical)
-
----
-
 ## 🌐 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-kanna-0a11121b4/)
