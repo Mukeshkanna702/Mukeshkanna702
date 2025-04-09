@@ -3,14 +3,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 I’m currently working on **STARR Mobile App** and **TECBOOK Mobile App**
+- 🔭 I’m currently working on **Flutter Developer** and **App Developer**
 - 🌱 I’m currently learning **Flutter Animations** and **Elixir API**
 - 👯 I’m looking to collaborate on **Flutter/Dart-based projects**
 - 🤝 I’m looking for help with:
   - 🧠 Writing efficient state management in Flutter (Bloc / Riverpod)
   - 🏗️ Building scalable app architecture
   - 📦 Publishing Flutter packages to [pub.dev](https://pub.dev)
-  - 🔥 Firebase integration for real-time applications
   - 🎯 Understanding Flutter animations more deeply
 - 💬 Ask me about **Flutter, Dart, REST APIs, BLoC, Play Store & App Store deployment**
 - 📫 How to reach me: **kannamukesh923@gmail.com**
